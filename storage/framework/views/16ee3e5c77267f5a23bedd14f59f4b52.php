@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('master', array_diff_key(get_defined_vars(), ['__data' => 1, '__path' => 1]))->render(); ?><?php /**PATH /srv/http/snicker/resources/views/practice/practice1.blade.php ENDPATH**/ ?>
